@@ -14,6 +14,15 @@ C:\Users\never\source\repos\Lab_2_provided\cylinder.h(227,26): warning C4244: '=
 C:\Users\never\source\repos\Lab_2_provided\cylinder.h(203,28): warning C4101: 'xz': unreferenced local variable
   (compiling source file 'main.cpp')
   
+C:\Users\never\source\repos\Lab_2_provided\cylinder_base.h(204,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\never\source\repos\Lab_2_provided\cylinder_base.h(257,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\never\source\repos\Lab_2_provided\cylinder_base.h(275,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
 C:\Users\never\source\repos\Lab_2_provided\sphere.h(198,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
@@ -26,39 +35,38 @@ C:\Users\never\source\repos\Lab_2_provided\sphere.h(203,33): warning C4244: '=':
 C:\Users\never\source\repos\Lab_2_provided\cone.h(148,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(379,50): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(380,50): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(451,30): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(457,30): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(785,61): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(786,61): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(440,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(440,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(440,36): warning C4101: 'rotateXMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(897,120): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(897,97): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(897,32): warning C4101: 'rotateXMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(897,62): warning C4101: 'rotateZMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(897,47): warning C4101: 'rotateYMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1190,120): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1190,97): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1190,32): warning C4101: 'rotateXMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1190,62): warning C4101: 'rotateZMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1190,47): warning C4101: 'rotateYMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1231,120): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1231,97): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1231,32): warning C4101: 'rotateXMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1231,62): warning C4101: 'rotateZMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1231,47): warning C4101: 'rotateYMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1294,32): warning C4101: 'rotateXMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1294,62): warning C4101: 'rotateZMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1404,32): warning C4101: 'rotateXMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1404,62): warning C4101: 'rotateZMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1404,47): warning C4101: 'rotateYMatrix': unreferenced local variable
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1853,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1853,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1856,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1867,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1874,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\never\source\repos\Lab_2_provided\main.cpp(1875,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(514,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(515,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(604,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(962,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(1454,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(1455,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(575,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(575,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2392,120): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2392,97): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2392,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2392,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2392,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2685,120): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2685,97): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2685,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2685,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2685,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2726,120): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2726,97): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2726,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2726,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2726,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2789,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2789,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2899,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2899,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(2899,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(3386,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(3386,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(3389,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(3400,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(3407,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\never\source\repos\Lab_2_provided\main.cpp(3408,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Lab_2_provided.vcxproj -> C:\Users\never\source\repos\Lab_2_provided\x64\Debug\Lab_2_provided.exe

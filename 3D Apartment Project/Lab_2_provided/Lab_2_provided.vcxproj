@@ -148,10 +148,12 @@
     <ClInclude Include="cone.h" />
     <ClInclude Include="cube.h" />
     <ClInclude Include="cylinder.h" />
+    <ClInclude Include="cylinder_base.h" />
     <ClInclude Include="pointLight.h" />
     <ClInclude Include="shader.h" />
     <ClInclude Include="sphere.h" />
     <ClInclude Include="stb_image.h" />
+    <ClInclude Include="triangle.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="fragmentShader.fs" />
@@ -168,18 +170,28 @@
     <Image Include="basin.jpg" />
     <Image Include="basketball.jpg" />
     <Image Include="bathroom_floor.jpg" />
+    <Image Include="cabinet.jpg" />
+    <Image Include="road.jpg" />
+    <Image Include="roof.jpg" />
+    <Image Include="wall_p.png" />
     <Image Include="bathroom_wall.jpg" />
+    <Image Include="bathtub.jpg" />
     <Image Include="cone.jpg" />
-    <Image Include="floor.jpeg" />
+    <Image Include="door.jpg" />
+    <Image Include="floor.jpg" />
     <Image Include="garage_floor.jpg" />
     <Image Include="grass.jpg" />
     <Image Include="kitchen_wall.png" />
     <Image Include="outer_wall.jpg" />
     <Image Include="pathway.jpg" />
+    <Image Include="stairs.jpg" />
+    <Image Include="tv.jpg" />
     <Image Include="wall_texture.jpg" />
+    <Image Include="wall_white.jpg" />
+    <Image Include="wheel.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="sphere.txt" />
+    <Text Include="basin.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

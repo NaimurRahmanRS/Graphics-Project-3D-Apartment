@@ -53,6 +53,12 @@
     <ClInclude Include="cone.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cylinder_base.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="fragmentShader.fs">
@@ -84,13 +90,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="bathroom_floor.jpg">
-      <Filter>Source Files</Filter>
-    </Image>
     <Image Include="bathroom_wall.jpg">
-      <Filter>Source Files</Filter>
-    </Image>
-    <Image Include="floor.jpeg">
       <Filter>Source Files</Filter>
     </Image>
     <Image Include="kitchen_wall.png">
@@ -120,9 +120,45 @@
     <Image Include="cone.jpg">
       <Filter>Source Files</Filter>
     </Image>
+    <Image Include="stairs.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="door.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="tv.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="floor.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="wall_white.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="wheel.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="bathtub.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="wall_p.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="bathroom_floor.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="road.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="cabinet.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="roof.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="sphere.txt">
+    <Text Include="basin.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
