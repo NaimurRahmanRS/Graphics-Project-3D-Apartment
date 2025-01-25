@@ -67,7 +67,7 @@ bool fanOn = false;
 
 //bird's eye view
 bool birdEyeView = false;
-glm::vec3 birdEyePosition(0.0f, 70.0f, 0.0f);
+glm::vec3 birdEyePosition(0.0f, 50.0f, 0.0f);
 glm::vec3 birdEyeTarget(0.0f, 1.0f, 1.0f);
 float birdEyeSpeed = 1.0f;
 
